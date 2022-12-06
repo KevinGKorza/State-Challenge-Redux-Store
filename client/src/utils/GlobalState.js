@@ -1,4 +1,4 @@
-//Not needed for the redux refactoring
+// Not needed for the redux refactoring
 
 // import React, { createContext, useContext } from "react";
 // import { useProductReducer } from './reducers'
