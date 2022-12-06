@@ -1,3 +1,3 @@
 # State-Challenge-Redux-Store
 
-This is extra credit
+This is extra credit!
