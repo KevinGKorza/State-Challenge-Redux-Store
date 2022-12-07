@@ -11,7 +11,7 @@ import {
   TOGGLE_CART,
 } from './actions';
 
-//setting up the initialState (taken from GlobalState file)
+//setting up the initialState (taken from GlobalState)
 const initialState = {
   products: [],
   cart: [],
