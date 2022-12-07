@@ -11,8 +11,7 @@ import { useDispatch } from "react-redux";
 
 function ProductList() {
   // const [state, dispatch] = useStoreContext();
-  const state = useSelector((state) => 
-  state);
+  const state = useSelector(state => state);
   const dispatch = useDispatch();
  
 
